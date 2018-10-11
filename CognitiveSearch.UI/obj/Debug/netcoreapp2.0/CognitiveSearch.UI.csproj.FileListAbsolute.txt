@@ -1,0 +1,22 @@
+F:\OneDrive - Microsoft\DTA\CognitiveSearchTemplate\Demos\CognitiveSearch.Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.deps.json
+F:\OneDrive - Microsoft\DTA\CognitiveSearchTemplate\Demos\CognitiveSearch.Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.runtimeconfig.json
+F:\OneDrive - Microsoft\DTA\CognitiveSearchTemplate\Demos\CognitiveSearch.Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.runtimeconfig.dev.json
+F:\OneDrive - Microsoft\DTA\CognitiveSearchTemplate\Demos\CognitiveSearch.Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.dll
+F:\OneDrive - Microsoft\DTA\CognitiveSearchTemplate\Demos\CognitiveSearch.Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.pdb
+F:\OneDrive - Microsoft\DTA\CognitiveSearchTemplate\Demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.csprojResolveAssemblyReference.cache
+F:\OneDrive - Microsoft\DTA\CognitiveSearchTemplate\Demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.csproj.CoreCompileInputs.cache
+F:\OneDrive - Microsoft\DTA\CognitiveSearchTemplate\Demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.AssemblyInfoInputs.cache
+F:\OneDrive - Microsoft\DTA\CognitiveSearchTemplate\Demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.AssemblyInfo.cs
+F:\OneDrive - Microsoft\DTA\CognitiveSearchTemplate\Demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.dll
+F:\OneDrive - Microsoft\DTA\CognitiveSearchTemplate\Demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.pdb
+C:\demos\CognitiveSearch.Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.deps.json
+C:\demos\CognitiveSearch.Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.runtimeconfig.json
+C:\demos\CognitiveSearch.Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.runtimeconfig.dev.json
+C:\demos\CognitiveSearch.Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.dll
+C:\demos\CognitiveSearch.Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.pdb
+C:\demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.csproj.CoreCompileInputs.cache
+C:\demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.AssemblyInfoInputs.cache
+C:\demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.AssemblyInfo.cs
+C:\demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.dll
+C:\demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.pdb
+C:\demos\CognitiveSearch.Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.csprojResolveAssemblyReference.cache
