@@ -11,7 +11,7 @@ namespace CognitiveSearch.UI
             "people",
             "locations",
             "organizations",
-            //"keyPhrases"
+            //"keyphrases"
         };
 
         private string[] tags = new string[]
@@ -19,7 +19,8 @@ namespace CognitiveSearch.UI
             // Add tags fields here in order
             "people",
             "locations",
-            "organizations"
+            "organizations",
+            "keyphrases"
         };
 
         private string[] resultFields = new string[]
@@ -31,7 +32,7 @@ namespace CognitiveSearch.UI
             "people",
             "locations",
             "organizations",
-            //"keyPhrases"
+            "keyphrases"
         };
 
         public List<SearchField> Facets { get; set; }

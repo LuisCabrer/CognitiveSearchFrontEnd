@@ -12743,11 +12743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\demos\\CognitiveSearch.Template\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
+      "projectUniqueName": "C:\\src\\git\\CognitiveSearchFrontEnd\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
       "projectName": "CognitiveSearch.UI",
-      "projectPath": "C:\\demos\\CognitiveSearch.Template\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
+      "projectPath": "C:\\src\\git\\CognitiveSearchFrontEnd\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
       "packagesPath": "C:\\Users\\luisca\\.nuget\\packages\\",
-      "outputPath": "C:\\demos\\CognitiveSearch.Template\\CognitiveSearch.UI\\obj\\",
+      "outputPath": "C:\\src\\git\\CognitiveSearchFrontEnd\\CognitiveSearch.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -12763,7 +12763,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://atlc.pkgs.visualstudio.com/_packaging/Microsoft.QnAMaker.Extractors/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

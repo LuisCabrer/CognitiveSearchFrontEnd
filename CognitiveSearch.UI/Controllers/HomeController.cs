@@ -76,13 +76,15 @@ namespace CognitiveSearch.UI.Controllers
                         value = facetResult.Value
                     });
                 }
-
-                foreach (var tagResult in response.Facets.Where(t => _docSearch.Model.Tags.Where(x => x.Name == t.Key).Any()))
+                
+                // Just create a list of tags for now.
+                // TODO: This does not need to be a dictionary.
+                foreach (var tag in _docSearch.Model.Tags)
                 {
                     tagsResults.Add(new
                     {
-                        key = tagResult.Key,
-                        value = tagResult.Value
+                        key = tag.Name,
+                        value = tag.Name
                     });
                 }
             }

@@ -445,6 +445,22 @@ pre {
     white-space: nowrap;
 }
 
+.tag-people {
+    background-color: #000000; 
+}
+
+.tag-organizations {
+    background-color: #60CB5D;
+}
+
+.tag-locations {
+    background-color: #ff6a00;
+}
+
+.tag-keyphrases {
+    background-color: #5f6a10;
+}
+
 #tags-panel {
     margin-top: 60px;
 }
