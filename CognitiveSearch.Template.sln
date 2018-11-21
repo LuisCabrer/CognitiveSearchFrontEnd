@@ -3,29 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{81062EDA-0465-456D-95C7-B39BD390F24D}"
-	ProjectSection(SolutionItems) = preProject
-		Docs\README.md = Docs\README.md
-	EndProjectSection
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CognitiveSearch.UI", "CognitiveSearch.UI\CognitiveSearch.UI.csproj", "{7A95287B-A883-45DF-AC29-A821601F9DC0}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Azure Search", "Azure Search", "{ED96CE30-F648-4EB8-BF8D-3AD2496F2E2B}"
-	ProjectSection(SolutionItems) = preProject
-		Docs\Azure Search\01_create_data_source.json = Docs\Azure Search\01_create_data_source.json
-		Docs\Azure Search\02_create_index.json = Docs\Azure Search\02_create_index.json
-		Docs\Azure Search\03_create_skillset.json = Docs\Azure Search\03_create_skillset.json
-		Docs\Azure Search\04_create_indexer.json = Docs\Azure Search\04_create_indexer.json
-		Docs\Azure Search\05_sample_index_search.json = Docs\Azure Search\05_sample_index_search.json
-		Docs\Azure Search\Cognitive Search Pipeline APIs.postman_collection.json = Docs\Azure Search\Cognitive Search Pipeline APIs.postman_collection.json
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deployment", "Deployment", "{27848B8B-202D-4B5A-8FE2-408D465FD167}"
-	ProjectSection(SolutionItems) = preProject
-		Docs\Deployment\arm_template.json = Docs\Deployment\arm_template.json
-		Docs\Deployment\deploy.ps1 = Docs\Deployment\deploy.ps1
-		Docs\Deployment\parameters.json = Docs\Deployment\parameters.json
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,10 +18,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{ED96CE30-F648-4EB8-BF8D-3AD2496F2E2B} = {81062EDA-0465-456D-95C7-B39BD390F24D}
-		{27848B8B-202D-4B5A-8FE2-408D465FD167} = {81062EDA-0465-456D-95C7-B39BD390F24D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC579B61-33D5-4713-A1E9-FA9AE4A25133}
