@@ -30,7 +30,7 @@ It is critical that you set the right search field properties as described in th
 | Field  | Notes and expectations |
 |--|--|
 |**content**| Used to show the transcript of the files. Should be **searchable and retrievable**.|
-|**metadata_storage_path** | This should be the key field, and base64 encoded. (this is the default when you go through the "Import Data" workflow.) </br> The storage path is used to query the blob indexer for the content so that you can "preview" the file. Should be **retrievable**. |
+|**metadata_storage_path** | This should be the **key field**, and **base64 encoded**. (this is the default when you go through the "Import Data" workflow.) </br> The storage path is used to query the blob indexer for the content so that you can "preview" the file. Should be **retrievable**. |
 |**metadata_storage_name** | Used to show the titles of the items in the result page. Should be **searchable and retrievable**.  |
 |**people** | List of strings with the persons identified in the document. Should be **facetable, filterable, searchable and retrievable**. |
 |**locations** |  List of strings with the locations identified in the document. Should be **facetable, filterable, searchable and retrievable**.|
