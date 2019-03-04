@@ -25,15 +25,17 @@ In order to do that you will need to update the following fields in [appsettings
 
 ### 2.2 Expectations on the Search Index
 
+It is critical that you set the right search field properties as described in the table below if you want the front end code to work without a hitch.
+
 | Field  | Notes and expectations |
 |--|--|
-|**content**| Used to show the transcript of the files. Should be searchable and retrievable.|
-|**metadata_storage_path** | This should be the key field, and base64 encoded. (this is the default when you go through the "Import Data" workflow.) </br> The storage path is used to query the blob indexer for the content so that you can "preview" the file. Should be retrievable. |
-|**metadata_storage_name** | Used to show the titles of the items in the result page. Should be searchable and retrievable.  |
-|**people** | List of strings with the persons identified in the document. Should be facetable, filterable, searchable and retrievable. |
-|**locations** |  List of strings with the locations identified in the document. Should be facetable, filterable, searchable and retrievable.|
-|**organizations** | List of strings with the organizations identified in the document. Should be facetable, filterable, searchable and retrievable. |
-| **keyPhrases** | List of key phrases identified in the document. Should be facetable, filterable, searchable and retrievable.|
+|**content**| Used to show the transcript of the files. Should be **searchable and retrievable**.|
+|**metadata_storage_path** | This should be the key field, and base64 encoded. (this is the default when you go through the "Import Data" workflow.) </br> The storage path is used to query the blob indexer for the content so that you can "preview" the file. Should be **retrievable**. |
+|**metadata_storage_name** | Used to show the titles of the items in the result page. Should be **searchable and retrievable**.  |
+|**people** | List of strings with the persons identified in the document. Should be **facetable, filterable, searchable and retrievable**. |
+|**locations** |  List of strings with the locations identified in the document. Should be **facetable, filterable, searchable and retrievable**.|
+|**organizations** | List of strings with the organizations identified in the document. Should be **facetable, filterable, searchable and retrievable**. |
+| **keyPhrases** | List of key phrases identified in the document. Should be **facetable, filterable, searchable and retrievable**.|
 
 To modify the fields you expect, take a look at the [SearchModel.cs](./CognitiveSearch.UI/Search/SearchModel.cs)  file.
 
