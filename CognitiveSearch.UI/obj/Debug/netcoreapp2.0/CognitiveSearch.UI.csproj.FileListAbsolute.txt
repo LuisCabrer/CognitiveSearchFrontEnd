@@ -31,3 +31,14 @@ C:\src\git\CognitiveSearchFrontEnd\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\Co
 C:\src\git\CognitiveSearchFrontEnd\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.AssemblyInfo.cs
 C:\src\git\CognitiveSearchFrontEnd\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.dll
 C:\src\git\CognitiveSearchFrontEnd\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.pdb
+C:\Users\delegenz\Source\CognitiveSearchFrontEnd\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.deps.json
+C:\Users\delegenz\Source\CognitiveSearchFrontEnd\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.runtimeconfig.json
+C:\Users\delegenz\Source\CognitiveSearchFrontEnd\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.runtimeconfig.dev.json
+C:\Users\delegenz\Source\CognitiveSearchFrontEnd\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.dll
+C:\Users\delegenz\Source\CognitiveSearchFrontEnd\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.pdb
+C:\Users\delegenz\Source\CognitiveSearchFrontEnd\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.csprojAssemblyReference.cache
+C:\Users\delegenz\Source\CognitiveSearchFrontEnd\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.csproj.CoreCompileInputs.cache
+C:\Users\delegenz\Source\CognitiveSearchFrontEnd\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.AssemblyInfoInputs.cache
+C:\Users\delegenz\Source\CognitiveSearchFrontEnd\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.AssemblyInfo.cs
+C:\Users\delegenz\Source\CognitiveSearchFrontEnd\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.dll
+C:\Users\delegenz\Source\CognitiveSearchFrontEnd\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.pdb
