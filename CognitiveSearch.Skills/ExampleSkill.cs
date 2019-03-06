@@ -38,7 +38,7 @@ namespace CognitiveSearch.Skills
 
             recordId = data?.values?.First?.recordId?.Value as string;
             // Parse your inputs here
-            // input = data?.values ...
+            // string content = data?.values?.First?.data?.content?.Value as string;
 
             try
             {
